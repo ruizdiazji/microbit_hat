@@ -1,7 +1,7 @@
 
 ## Placa de expansión para utilizar con MICROBIT    
 
-https://github.com/ruizdiazji/microbit_hat/blob/master/images/20200320_141318.jpg
+https://raw.githubusercontent.com/ruizdiazji/microbit_hat/blob/master/imagen_muestra.jpg
 
 ### Descripción y contexto
 ---
