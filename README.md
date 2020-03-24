@@ -1,6 +1,7 @@
 
 ## Placa de expansión para utilizar con MICROBIT    
 
+https://github.com/ruizdiazji/microbit_hat/blob/master/images/20200320_141318.jpg
 
 ### Descripción y contexto
 ---
@@ -50,7 +51,7 @@ Si te interesa probar los distintos sensores y periféricos que tiene la placa m
 
 ### Licencia 
 ---
-[LICENCIA](https://github.com/ruizdiazji/microbit_hat/master/LICENSE.md)
+[LICENCIA] https://github.com/ruizdiazji/microbit_hat/blob/master/LICENSE.md
 
 
 Si desconoces qué tipos de licencias existen, podes visitar la página https://choosealicense.com/.
